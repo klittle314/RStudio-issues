@@ -1,0 +1,39 @@
+R version 3.0.3 (2014-03-06)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+
+locale:
+[1] LC_COLLATE=English_United States.1252 
+[2] LC_CTYPE=English_United States.1252   
+[3] LC_MONETARY=English_United States.1252
+[4] LC_NUMERIC=C                          
+[5] LC_TIME=English_United States.1252    
+
+attached base packages:
+[1] splines   stats     graphics  grDevices utils     datasets  methods  
+[8] base     
+
+other attached packages:
+ [1] forecast_4.06       psych_1.3.2         googleVis_0.4.7    
+ [4] shiny_0.8.0         vegan_2.0-7         permute_0.7-0      
+ [7] stringr_0.6.2       RColorBrewer_1.0-5  manipulate_0.98.501
+[10] lattice_0.20-27     glm2_1.1.1          GGally_0.4.3       
+[13] reshape_0.8.4       plyr_1.8            ggplot2_0.9.3.1    
+[16] gdata_2.12.0.2      foreign_0.8-59      doBy_4.5-6         
+[19] MASS_7.3-29         multcomp_1.2-18     survival_2.37-7    
+[22] mvtnorm_0.9-9995   
+
+loaded via a namespace (and not attached):
+ [1] bitops_1.0-5     caTools_1.14     colorspace_1.2-2 dichromat_2.0-0 
+ [5] digest_0.6.3     fracdiff_1.4-2   grid_3.0.3       gtable_0.1.2    
+ [9] gtools_2.7.1     httpuv_1.2.3     labeling_0.2     Matrix_1.1-2    
+[13] munsell_0.4      nnet_7.3-7       parallel_3.0.3   proto_0.3-10    
+[17] quadprog_1.5-5   Rcpp_0.11.1      reshape2_1.2.2   RJSONIO_1.0-3   
+[21] scales_0.2.3     tools_3.0.3      tseries_0.10-32  xtable_1.7-1    
+[25] zoo_1.7-10      
+
+RStudio Info
+$version
+[1] ‘0.98.501’
+
+$mode
+[1] "desktop"
